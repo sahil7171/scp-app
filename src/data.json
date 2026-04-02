@@ -1,0 +1,84 @@
+[
+
+  {
+
+    "id": 2,
+
+    "name": "SCP-002",
+
+    "class": "Euclid",
+
+    "image": "/scp002.jpg",
+
+    "description": "SCP-002 resembles a tumorous, fleshy growth with a hollow interior containing furniture.",
+
+    "containment": "SCP-002 must remain connected to a suitable power supply at all times to prevent structural collapse."
+
+  },
+
+  {
+
+    "id": 3,
+
+    "name": "SCP-003",
+
+    "class": "Euclid",
+
+    "image": "/scp003.jpg",
+
+    "description": "SCP-003 consists of two related components, one organic and one electronic.",
+
+    "containment": "SCP-003 must be kept at a constant temperature and monitored continuously to prevent instability."
+
+  },
+
+  {
+
+    "id": 4,
+
+    "name": "SCP-004",
+
+    "class": "Euclid",
+
+    "image": "/scp004.jpg",
+
+    "description": "SCP-004 is a set of antique keys and a wooden door that leads to dangerous alternate spaces.",
+
+    "containment": "The door must remain locked, and access is restricted to authorized personnel only."
+
+  },
+
+  {
+
+    "id": 5,
+
+    "name": "SCP-005",
+
+    "class": "Safe",
+
+    "image": "/scp005.jpg",
+
+    "description": "SCP-005 is a key capable of opening any lock, regardless of design.",
+
+    "containment": "SCP-005 must be stored securely and only used for approved testing procedures."
+
+  },
+
+  {
+
+    "id": 6,
+
+    "name": "SCP-006",
+
+    "class": "Safe",
+
+    "image": "/scp006.jpg",
+
+    "description": "SCP-006 is a small spring of water that has regenerative and life-extending properties.",
+
+    "containment": "The area must be guarded at all times, and access is limited to authorized researchers."
+
+  }
+
+]
+ 
